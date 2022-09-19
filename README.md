@@ -1,7 +1,6 @@
 # Desafio-1---Bootcamp-repo
 Proyecto 1 en Bootcamp 2022
 
-
 ## Propósito
 
 Este proyecto fué ralizado con la finalidad de aprender conceptos de sémantica, refactorización y accesibilidad en html, para así cumplir el propósito principal declarado en la Historia del usuario.
@@ -62,11 +61,7 @@ ENTONCES encuentro un titulo conciso y descriptivo
 
 La aplicación se asemeja (al menos el 90 %) a las capturas de pantalla proporcionada
 
-
-
-
-
-
+![foto demo](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Calidad del repositorio
 
@@ -89,3 +84,7 @@ La URL de la aplicación desplegada.
 La URL del repositorio de GitHub que contiene su código. Dé al repositorio un nombre único e incluya un archivo README que describa el proyecto.
 
 ##Código html refactorizado
+
+## Código html después de cumplir el desafío
+
+
