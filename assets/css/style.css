@@ -66,14 +66,14 @@ p {
 }
 
   /* TODO: Aplica formato a todo el contenido dentro de "article" */
-article {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
   /* TODO: Aplica formato a todos los elementos dentro de los "div" contenidos en "article" */
-article div {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -82,6 +82,14 @@ article div {
     color: #ffffff;
 }
 
+main section img {
+    max-height: 200px;
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,34 +100,7 @@ article div {
     margin-left: 25px;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-  /* TODO: Aplica formato a todos los elementos dentro de "aside" */
+/* TODO: Aplica formato a todos los elementos dentro de "aside" */
 aside {
     margin-right: 20px;
     padding: 20px;
