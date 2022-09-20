@@ -65,14 +65,14 @@ p {
     background-position: center;
 }
 
-  /* TODO: Aplica formato a todo el contenido dentro de "article" */
+  /* TODO: Aplica formato a todo el contenido dentro de "main" */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-  /* TODO: Aplica formato a todos los elementos dentro de los "div" contenidos en "article" */
+  /* TODO: Aplica formato a todos los elementos dentro de los "section" contenidos en "main" */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -82,6 +82,7 @@ main section {
     color: #ffffff;
 }
 
+/* Aplica formato a las imagenes que estan en cada "section" de "main" */
 main section img {
     max-height: 200px;
 }
