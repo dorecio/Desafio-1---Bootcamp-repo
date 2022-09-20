@@ -6,6 +6,8 @@ Proyecto 1 en Bootcamp 2022
 Este proyecto fué ralizado con la finalidad de aprender conceptos de sémantica, refactorización y accesibilidad en html, para así cumplir el propósito principal declarado en la Historia del usuario.
 Se otorga un código de inicio sobre el cual trabajé aprendiendo habilidades de manejo de repositorios con las mejores prácticas.
 
+## Enlace a la aplicación 
+https://dorecio.github.io/Desafio-1-Bootcamp-repo/
 
 ## Historia del Usuario
 
@@ -83,8 +85,6 @@ Se envía lo siguiente:
 La URL de la aplicación desplegada.
 
 La URL del repositorio de GitHub que contiene su código. Dé al repositorio un nombre único e incluya un archivo README que describa el proyecto.
-
-##Código html refactorizado
 
 ## Código HTML después de cumplir el desafío
 
